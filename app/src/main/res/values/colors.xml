@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#183B63</color>
+    <color name="primary_blue">#183B63</color>
+    <color name="primary_blue_dark">#112B49</color>
+    <color name="accent_teal">#148A84</color>
+    <color name="screen_background">#F5F7FA</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="text_primary">#1D2D40</color>
+    <color name="text_secondary">#6B7888</color>
+    <color name="text_hint">#8793A1</color>
+    <color name="search_outline">#E2E8EF</color>
+    <color name="card_outline">#E9EDF2</color>
+    <color name="category_chip">#EAF1F8</color>
+    <color name="cover_blue">#315F8C</color>
+    <color name="cover_teal">#27837D</color>
+    <color name="cover_coral">#C87962</color>
+    <color name="nav_inactive">#8995A3</color>
+</resources>
